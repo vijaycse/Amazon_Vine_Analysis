@@ -51,10 +51,11 @@ We focused on the US reviews for Grocery .
 ## Summary
 32% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is 55%. 
 
-I also cross verified the calculation by using SQL 
+I also cross verified the calculation by using [SQL](https://github.com/vijaycse/Amazon_Vine_Analysis/blob/master/Vine_Review_Analysis.sql)  
 
-This describes less positivity bias for reviews in the Vine program 
+This describes less positivity bias for reviews in the Vine program.
+
 Most of the vine program reviewers did not purchase the product they reviewed. so its very 
-unclear whether to take vine program review seriously. However non-vine program reviews seems 
+unclear whether to take vine program review seriously. However non-vine program reviews seem 
 reliable and most of the reviewers purchased the product they reviewed.
  
